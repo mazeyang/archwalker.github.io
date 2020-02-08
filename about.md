@@ -3,9 +3,6 @@ layout: article
 titles:
   # @start locale config
   en      : &EN       About
-<<<<<<< HEAD
-  zh      : &ZH       关于
-=======
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,7 +23,6 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
->>>>>>> 40a8a8712b89533dd3f88c07a22c04b2d036e36e
 key: page-about
 ---
 
@@ -59,4 +55,3 @@ Contact him at yangkm601 `<AT>` gamil `<DOT>` com
 | `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
 | --- |  --- | --- | --- |  --- |
 | ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
->>>>>>> 40a8a8712b89533dd3f88c07a22c04b2d036e36e
